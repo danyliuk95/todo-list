@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ccf90551-bdb1-41a8-b64a-3f0b7860e9b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Rompies.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomTextField/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomTextField/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Landing/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Landing/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/TodoList/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/TodoList/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/reducers/taskSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NTFvgMwiqfaEHkzYCO0UgnZHdp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ccf90551-bdb1-41a8-b64a-3f0b7860e9b0" name="Default Changelist" comment="" />
+      <created>1679680396949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679680396949</updated>
+      <workItem from="1679680399052" duration="46000" />
+      <workItem from="1679680500027" duration="9427000" />
+      <workItem from="1679854373924" duration="25000" />
+      <workItem from="1679854414342" duration="6743000" />
+      <workItem from="1680007227497" duration="17678000" />
+      <workItem from="1680189423670" duration="22000" />
+      <workItem from="1680189465596" duration="8494000" />
+      <workItem from="1680269076950" duration="4990000" />
+      <workItem from="1680619478676" duration="27303000" />
+      <workItem from="1681063093269" duration="2162000" />
+      <workItem from="1681065423109" duration="4510000" />
+      <workItem from="1681155197830" duration="9160000" />
+      <workItem from="1681224354848" duration="1009000" />
+      <workItem from="1681231032449" duration="1992000" />
+      <workItem from="1681325121063" duration="3544000" />
+      <workItem from="1681411638840" duration="18000" />
+      <workItem from="1681465002901" duration="2284000" />
+      <workItem from="1681670039988" duration="81000" />
+      <workItem from="1681670482328" duration="36000" />
+      <workItem from="1681671560574" duration="4896000" />
+      <workItem from="1683717865077" duration="1390000" />
+      <workItem from="1688403970109" duration="23000" />
+      <workItem from="1690910984263" duration="864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
